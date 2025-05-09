@@ -1,15 +1,24 @@
-# Currency Converter
-A simple Python code that uses OOP concepts to convert currencies.
+# 💵 Currency Converter
 
-## CS-1205 Team 4 - Laboratory Activity 3
+## Team Members
+-Ballesteros, Zyra
 
-Ballesteros, Zyra
+-Pacilan, James Godffrey
 
-Pacilan, James Godffrey
+-Torririt, Shawn Janxent
 
-Torririt, Shawn Janxent
+-Villegas, Lemuel
 
-Villegas, Lemuel L.
+## Project Description
 
-## Usage
-To use the currency converter, choose the currency that you want to convert from and what currency you want to convert it to.
+A simple **Currency Converter** built with **Python OOP** that converts between five major currencies:
+
+USD (US Dollar)
+
+JPY (Japanese Yen)
+
+EUR (Euro)
+
+PHP (Philippine Peso)
+
+KRW (South Korean Won)
