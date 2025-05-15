@@ -22,3 +22,6 @@ EUR (Euro)
 PHP (Philippine Peso)
 
 KRW (South Korean Won)
+
+## Acknowledgement
+We would like to express our heartfelt gratitude for our very supportive and passionate instructor, **Ms. Fatima Marie Agdon, MSCS**. We really appreciate the way she explained things clearly and gave helpful feedback that made the work easier to understand.
